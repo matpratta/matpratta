@@ -8,5 +8,6 @@ You can normally find me on the following locations:
 
 - Website/résumé: https://matheus.io
 - Work Blog: https://blog.matheus.io
+- LinkedIn: https://www.linkedin.com/in/matheus-pratta/
 - Twitter: https://twitter.com/matt_pratta
 - Personal Instagram: https://instagram.com/matt_pratta
