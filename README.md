@@ -1,13 +1,15 @@
 # Matheus "Matt" Pratta
 
-Hello there! I'm Matheus, sometimes also called Matt, a full-stack developer currently working part-time at [Tecnoblog](https://tecnoblog.net) and also running my own company, [Subatomic](https://subatomic.rocks) for freelancing and developing my own ideas. I mostly do back-end work, in languages such as PHP and JavaScript, but I also have some experience working on front-end development, specially with SCSS and Vue.js. As a secondary skill, I also know something about design, color theory and image editing, and I mostly use these to enhance prototypes and development work, but not as a primary skill.
+Hey there! My name is Matheus (call me Matt, though, I love it!) and I'm a full-stack developer! I currently work as contractor for [Toptal](https://www.toptal.com/resume/matheus-teruel-pratta#discover-exclusively-shrewd-software-contractors) while also running my own company, [Subatomic](https://subatomic.rocks), where I currently work on my own ideas. I also have previously worked at [Tecnoblog](https://tecnoblog.net) as a full-stack developer, working with technologies such as WordPress and Prebid.
+
+Currently I mostly do back-end work, using both PHP and JavaScript, but I also have some experience working on front-end development, specially with SCSS and Vue.js. As a secondary skill set, I also have some knowledge on design, color theory and image editing, which I mostly use to enhance prototypes and improve development work.
 
 ## Web Presence
 
-You can normally find me on the following locations:
+You can normally find me at these places online:
 
 - Website/résumé: https://matheus.io
 - Work Blog: https://blog.matheus.io
 - LinkedIn: https://www.linkedin.com/in/matheus-pratta/
-- Twitter: https://twitter.com/matt_pratta
-- Personal Instagram: https://instagram.com/matt_pratta
+- Instagram: https://instagram.com/matt_pratta
+- Mostly Personal Twitter: https://twitter.com/matt_pratta
